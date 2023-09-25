@@ -1,6 +1,6 @@
 *Hi, this is NSS Lab*
 
-**We are conduct a lot of AI/ML researchers in ITMO University**
+**We are conduct a lot of AI/ML researches in ITMO University**
 
 Our laboratory is part of the Research Center for Strong Artificial Intelligence (ITMO University, Russia), 
 which provides cutting-edge software and algorithmic solutions. 
