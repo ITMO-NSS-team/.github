@@ -1,5 +1,6 @@
-<h1 align="center">Hi, this is NSS Lab</h1>
-<h3 align="center">We are conduct a lot of AI/ML researchers in ITMO University</h3>
+*Hi, this is NSS Lab*
+
+**We are conduct a lot of AI/ML researchers in ITMO University**
 
 Our laboratory is part of the Research Center for Strong Artificial Intelligence (ITMO University, Russia), 
 which provides cutting-edge software and algorithmic solutions. 
